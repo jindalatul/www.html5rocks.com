@@ -1753,6 +1753,23 @@ twitter: razvancaliman
 email: razvan.caliman@gmail.com
 
 ---
+id: jindalatul
+name:
+  given: Atul
+  family: Jindal
+org:
+  name: xlntstudios.com
+  unit: Web Developer
+address:
+  locality: Denver
+  region: Colorado
+  country: USA
+  lat: 39.739236
+  lon: -104.990251
+homepage: http://xlntstudios.com
+google: 102230488729476305576
+twitter: xlnt_studios
+email: er.atul.jindal@gmail.com
 
 id: heathermahan
 name:
